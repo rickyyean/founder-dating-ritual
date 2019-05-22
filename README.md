@@ -7,3 +7,8 @@ _A ritual or an agreed upon sequence of events that everyone looking to work tog
 * **Date 4:** Hang out with friends and family. This helps you feel for the "founder-life fit" to see if you both feel good about being intertwined in each other's lives. Learn what the other person is like with their loved ones and see what their loved ones say about them. (_1.5 – 3.5 hrs_)
 * **Date 5–10:** Work together for at least four weeks on a project with terms that make sense (Steve Blank's recommendation). If you worked on one person's idea for the weekend project, come up with a new project together this time. (_30 days_)
 * **Define The Relationship:** At the end, take some time off to reflect and decide if startup life with this person is for you. Have an honest feedback session with each other about everything. Decide and commit. Standard startup vesting is four years with a one-year cliff.
+
+## How to use this doc
+
+1. [Read the background essay](http://rickyyean.com)
+2. Share it with your potential co-founders and get their buy-in (modify the details as you see fit, and feel to open issues to make your suggestion)
