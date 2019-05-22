@@ -10,6 +10,6 @@ _A ritual or an agreed upon sequence of events that everyone looking to work tog
 
 ## How to use this doc
 
-1. [Read the background essay](https://rickyyean.com)
+1. [Read the background essay](https://rickyyean.com/2019/05/22/founder-dating-ritual/)
 2. Share it with your potential co-founders and get their buy-in (modify the details as you see fit, and feel to [open an isuse](https://github.com/rickyyean/founder-dating-ritual/issues) to make a suggestion or [tell me on Twitter](https://twitter.com/rickyyean))
 3. If this ritual helped you and you want more people to use it, star this repo and share the essay!
