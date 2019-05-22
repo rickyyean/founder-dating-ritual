@@ -11,4 +11,4 @@ _A ritual or an agreed upon sequence of events that everyone looking to work tog
 ## How to use this doc
 
 1. [Read the background essay](http://rickyyean.com)
-2. Share it with your potential co-founders and get their buy-in (modify the details as you see fit, and feel to open issues to make your suggestion)
+2. Share it with your potential co-founders and get their buy-in (modify the details as you see fit, and feel to open an isuse to make a suggestion)
